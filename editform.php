@@ -93,7 +93,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Upload, Insert, Update, Delete an Image using PHP MySQL - Coding Cage</title>
+<title>Edit Student Info</title>
 
 <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 
@@ -112,13 +112,6 @@
 
 <div class="navbar navbar-default navbar-static-top" role="navigation">
     <div class="container">
- 
-        <div class="navbar-header">
-            <a class="navbar-brand" href="http://www.codingcage.com" title='Programming Blog'>Coding Cage</a>
-            <a class="navbar-brand" href="http://www.codingcage.com/search/label/CRUD">CRUD</a>
-            <a class="navbar-brand" href="http://www.codingcage.com/search/label/PDO">PDO</a>
-            <a class="navbar-brand" href="http://www.codingcage.com/search/label/jQuery">jQuery</a>
-        </div>
  
     </div>
 </div>
@@ -181,10 +174,6 @@
     
 </form>
 
-
-<div class="alert alert-info">
-    <strong>tutorial link !</strong> <a href="http://www.codingcage.com/2016/02/upload-insert-update-delete-image-using.html">Coding Cage</a>!
-</div>
 
 </div>
 </body>
